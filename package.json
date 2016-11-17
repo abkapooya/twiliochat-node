@@ -33,9 +33,9 @@
     "express": "~4.14.0",
     "jade": "~1.11.0",
     "jquery": "^2.2.0",
-    "kontainer-di": "^0.9.8",
+    "kontainer-di": "^0.9.9",
     "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.0",
+    "serve-favicon": "~2.3.2",
     "twilio": "3.0.0-rc.13"
   },
   "devDependencies": {
